@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T04:08:44.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vXElHI3ryFPFyFS-kc_i" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T05:59:21.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-7kJJi1vP0GKlEdodfg6" version="17.4.6" type="github">
   <diagram id="-zWPHJQYayK7DrnN_WTL" name="Page-1">
     <mxGraphModel dx="920" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
       <root>
@@ -138,11 +138,6 @@
             <mxPoint x="270" y="404.6470588235294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=30;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-91">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="379.9411764705883" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-91" value="覆盖当天出现的所有IO NO" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="140" y="350" width="80" height="80" as="geometry" />
         </mxCell>
@@ -197,6 +192,14 @@
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-126" value="1、一周的时间怎么界定？&lt;br&gt;2、一周全量的时候之前按天定存的IO NO会不会删除？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=10;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="72.5" width="164" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=30;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="369.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-130" value="全量覆盖" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="345" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
