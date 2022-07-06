@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T03:02:11.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ci0yjwlI0giqp8_5w9YG" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T03:02:50.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EHsUfNGYrxup88HJdcOC" version="17.4.6" type="github">
   <diagram id="-zWPHJQYayK7DrnN_WTL" name="Page-1">
     <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
       <root>
@@ -74,11 +74,20 @@
         <mxCell id="2tfb3EqtFTx625eSX2Tw-41" value="VW_VerificationDetileInfo&lt;br&gt;（核销任务明细表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-42" target="2tfb3EqtFTx625eSX2Tw-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-42" value="VW_ChargebackDetileInfo&lt;br&gt;（退单明细报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="770" y="240" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-43" target="2tfb3EqtFTx625eSX2Tw-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-43" value="VW_VerificationCashInfo&lt;br&gt;（核销报表-现金）" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="940" y="240" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-44" target="2tfb3EqtFTx625eSX2Tw-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-44" value="VW_VerificationSamplewineInfo&lt;br&gt;（核销报表-样酒）" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1110" y="240" width="200" height="50" as="geometry" />
