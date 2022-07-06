@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T03:04:46.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NZf5c_6JvOysczbHITxJ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T03:06:15.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hA5Beafv557T_k3BdjTK" version="17.4.6" type="github">
   <diagram id="-zWPHJQYayK7DrnN_WTL" name="Page-1">
     <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
             <mxPoint x="850" y="404.6470588235294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-97" value="每天全量同步当天状态为1和3的最新数据，更新/插入状态2的最新数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="520" y="366.37" width="80" height="80" as="geometry" />
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-97" value="每天全量同步最新更新时间为当天且状态为1和3的最新数据，更新/插入状态2的最新数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-102" target="2tfb3EqtFTx625eSX2Tw-47">
           <mxGeometry relative="1" as="geometry" />
