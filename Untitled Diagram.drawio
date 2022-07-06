@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T01:36:11.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vTLfy5RlWlj1KcMnckKK" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T02:54:39.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xFu8nXUHkeDGSLWEp07s" version="17.4.6" type="github">
   <diagram id="-zWPHJQYayK7DrnN_WTL" name="Page-1">
     <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F2F2F2" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="446.37" width="1150" height="173.63" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-33" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="1150" height="110" as="geometry" />
+          <mxGeometry x="170" y="230" width="1150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-32" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;rotation=90;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="-10" width="56" height="458" as="geometry" />
@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-36" value="P2P_IO_PO_TRACKING&lt;br&gt;（IO及PO跟踪报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="185.5" y="200" width="164.5" height="50" as="geometry" />
+          <mxGeometry x="185.5" y="220" width="164.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-37" value="SAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="60" height="30" as="geometry" />
@@ -61,34 +61,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-38" value="P2P_SAMPLEWINE_WAREHOUSE&lt;br&gt;（样酒安库查询报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="361" y="200" width="220" height="50" as="geometry" />
+          <mxGeometry x="361" y="220" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-41" target="2tfb3EqtFTx625eSX2Tw-47">
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-41" target="2tfb3EqtFTx625eSX2Tw-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-41" value="VW_VerificationDetileInfo&lt;br&gt;（核销任务明细表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="160" height="50" as="geometry" />
+          <mxGeometry x="600" y="290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-42" target="2tfb3EqtFTx625eSX2Tw-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-42" value="VW_ChargebackDetileInfo&lt;br&gt;（退单明细报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="770" y="260" width="160" height="50" as="geometry" />
+          <mxGeometry x="770" y="290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-43" target="2tfb3EqtFTx625eSX2Tw-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-43" value="VW_VerificationCashInfo&lt;br&gt;（核销报表-现金）" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="940" y="260" width="160" height="50" as="geometry" />
+          <mxGeometry x="940" y="290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-44" target="2tfb3EqtFTx625eSX2Tw-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-44" value="VW_VerificationSamplewineInfo&lt;br&gt;（核销报表-样酒）" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="260" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-47" target="2tfb3EqtFTx625eSX2Tw-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1110" y="290" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-47" value="P2P_VerificationDetileInfo&lt;br&gt;（核销任务明细表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="600" y="460" width="160" height="50" as="geometry" />
@@ -111,35 +113,23 @@
         <mxCell id="2tfb3EqtFTx625eSX2Tw-51" value="P2P_VerificationSamplewineInfo&lt;br&gt;（核销报表-样酒）" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1110" y="460" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;" edge="1" parent="1">
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;startArrow=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="377.9999999999999" as="sourcePoint" />
-            <mxPoint x="1337.6191057477681" y="377.9999999999999" as="targetPoint" />
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="1338" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-53" target="2tfb3EqtFTx625eSX2Tw-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-53" value="P2P_IO_PO_TRACKING_&lt;br&gt;DAY&lt;br&gt;（IO及PO跟踪日定存）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185.5" y="280" width="169" height="50" as="geometry" />
+          <mxGeometry x="183.25" y="290" width="169" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-54" target="2tfb3EqtFTx625eSX2Tw-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-54" value="P2P_SAMPLEWINE_WAREHOUSE_&lt;br&gt;DAY&lt;br&gt;（样酒安库查询历史日定存）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="361" y="280" width="220" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-55" target="2tfb3EqtFTx625eSX2Tw-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="670" />
-              <mxPoint x="930" y="670" />
-              <mxPoint x="930" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2tfb3EqtFTx625eSX2Tw-55" value="P2P_VerificationDetileInfo_&lt;br&gt;HISTORY&lt;br&gt;（核销任务明细历史表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="600" y="550" width="160" height="50" as="geometry" />
+          <mxGeometry x="361" y="290" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-56" target="2tfb3EqtFTx625eSX2Tw-70">
           <mxGeometry relative="1" as="geometry" />
@@ -168,10 +158,36 @@
           <mxGeometry x="970" y="640" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-81" value="P2P_IO_PO_TRACKING&lt;br&gt;（IO及PO跟踪报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="187.75" y="460" width="164.5" height="50" as="geometry" />
+          <mxGeometry x="185.5" y="460" width="164.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2tfb3EqtFTx625eSX2Tw-84" value="P2P_SAMPLEWINE_WAREHOUSE&lt;br&gt;（样酒安库查询报表）" style="text;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="361" y="460" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=55;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="404.6470588235294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=30;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="379.9411764705883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-91" value="覆盖当天出现的所有IO NO" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=30;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="379.9411764705883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=55;exitPerimeter=0;fontSize=10;" edge="1" parent="1" source="2tfb3EqtFTx625eSX2Tw-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="404.6470588235294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tfb3EqtFTx625eSX2Tw-97" value="每天全量同步近7天状态为1和3的最新数据，更新/插入状态2的最新数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;sketch=0;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
