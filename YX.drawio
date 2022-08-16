@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T08:52:08.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W8sHZq4tp29u_0QW5PJ4" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T08:54:55.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5XBqDZ7g-y-PJHJa8mos" version="20.1.2" type="github">
   <diagram id="CyCotAOFs8CiSxoiARDL" name="第 1 页">
     <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,16 @@
         <mxCell id="hh0cbMtGUYLOpiCmS87g-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;table width=&quot;69&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt;width:52pt&quot; width=&quot;69&quot; height=&quot;19&quot;&gt;BAS.DIM_TERMINAL_MONTH_INDEX&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;有效门店&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="860" y="73.54" width="270" height="47.08" as="geometry" />
         </mxCell>
-        <mxCell id="hh0cbMtGUYLOpiCmS87g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-18" target="hh0cbMtGUYLOpiCmS87g-24">
+        <mxCell id="hh0cbMtGUYLOpiCmS87g-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-18" target="hh0cbMtGUYLOpiCmS87g-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1195" y="250" />
+              <mxPoint x="310" y="250" />
+              <mxPoint x="310" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hh0cbMtGUYLOpiCmS87g-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-18" target="hh0cbMtGUYLOpiCmS87g-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hh0cbMtGUYLOpiCmS87g-18" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;BAS.DIM_SALES_REGION_MAIN&lt;br&gt;销售区域&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;sketch=0;arcSize=12;strokeWidth=1;fontColor=#333333;" vertex="1" parent="1">
@@ -63,9 +72,16 @@
         <mxCell id="hh0cbMtGUYLOpiCmS87g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-21" target="hh0cbMtGUYLOpiCmS87g-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1445" y="180" />
-              <mxPoint x="1120" y="180" />
-              <mxPoint x="1120" y="348" />
+              <mxPoint x="1445" y="348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hh0cbMtGUYLOpiCmS87g-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-21" target="hh0cbMtGUYLOpiCmS87g-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1408" y="270" />
+              <mxPoint x="400" y="270" />
+              <mxPoint x="400" y="357" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,8 +97,8 @@
         <mxCell id="hh0cbMtGUYLOpiCmS87g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.947;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=6;" edge="1" parent="1" source="hh0cbMtGUYLOpiCmS87g-35" target="hh0cbMtGUYLOpiCmS87g-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="555" y="270" />
-              <mxPoint x="239" y="270" />
+              <mxPoint x="555" y="260" />
+              <mxPoint x="239" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
