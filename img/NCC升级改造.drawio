@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T10:24:12.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="bPzSinF5NULIwRkE_4TR" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T01:35:28.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="NHycwKj31iyDFKMKv8xu" type="github">
   <diagram id="yJ4BQM4C2GdOWfPaIlxf" name="第 1 页">
     <mxGraphModel dx="924" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="jj3Smo2vYG_p02jV_rtp-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;dblink表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="576.25" width="120" height="53.75" as="geometry" />
         </mxCell>
-        <mxCell id="jj3Smo2vYG_p02jV_rtp-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;如果 dblink中有表/存储过程/视图已存在则不用在kettle建立调度&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;如果 dblink中有表/存储过程/视图已存在则不用在kettle建立调度，但需切换源&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jj3Smo2vYG_p02jV_rtp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#F2F2F2;" edge="1" parent="1" source="jj3Smo2vYG_p02jV_rtp-44" target="jj3Smo2vYG_p02jV_rtp-55">
@@ -65,10 +65,10 @@
         <mxCell id="jj3Smo2vYG_p02jV_rtp-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ODS/DA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="324" y="770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jj3Smo2vYG_p02jV_rtp-63" value="* NCC为新系统作为源,ODS/DA（oracle）为目标系统" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-63" value="* NC为旧服务，NCC为新服务,ODS/DA（oracle）为目标服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="44" y="310" width="756" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jj3Smo2vYG_p02jV_rtp-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;不存在的表需要验证&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;不存在的表需要到NC验证&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="80" y="450" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj3Smo2vYG_p02jV_rtp-73" value="ncc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
@@ -79,6 +79,15 @@
         </mxCell>
         <mxCell id="jj3Smo2vYG_p02jV_rtp-75" value="oracle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-80" value="根据表名/视图建立新调度" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-81" value="源" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;align=left;" vertex="1" parent="1">
+          <mxGeometry x="397" y="546.25" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3Smo2vYG_p02jV_rtp-83" value="目标" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;align=left;" vertex="1" parent="1">
+          <mxGeometry x="397" y="730" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
