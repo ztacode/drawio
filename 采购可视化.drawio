@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T03:55:34.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K1PBm5os3iDs4L3tgroN" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T03:57:46.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0c7im0A0a8Auli0e0rMC" version="22.0.7" type="github">
   <diagram name="第 1 页" id="FGrGxSRmitQIRBQrDkw8">
     <mxGraphModel dx="1040" dy="-642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             <mxPoint x="149.9999999999999" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0gEF_czY5IjIDfp2nzT-181" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_complete_f（日期维表）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
+        <mxCell id="C0gEF_czY5IjIDfp2nzT-181" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_complete_f（流程完成率接口）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
           <mxGeometry x="239" y="70" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C0gEF_czY5IjIDfp2nzT-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="C0gEF_czY5IjIDfp2nzT-177" source="C0gEF_czY5IjIDfp2nzT-183">
@@ -101,10 +101,10 @@
             <mxPoint x="149.9999999999999" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0gEF_czY5IjIDfp2nzT-183" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_timely_f&lt;br&gt;（订单主表）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
+        <mxCell id="C0gEF_czY5IjIDfp2nzT-183" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_timely_f&lt;br&gt;（流程及时率接口）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
           <mxGeometry x="410" y="70" width="161" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0gEF_czY5IjIDfp2nzT-184" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_scorecard_f（订单主表-健合专有属性表）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
+        <mxCell id="C0gEF_czY5IjIDfp2nzT-184" value="&lt;a name=&quot;OLE_LINK1&quot;&gt;dwd_scm_pdv_scorecard_f（供应商评分）&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0gEF_czY5IjIDfp2nzT-177">
           <mxGeometry x="580" y="70" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C0gEF_czY5IjIDfp2nzT-187" value="hh_bi_ads" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;collapsible=0;fillColor=#f8cecc;strokeColor=default;" vertex="1" parent="1">
@@ -296,12 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C0gEF_czY5IjIDfp2nzT-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0gEF_czY5IjIDfp2nzT-268" target="C0gEF_czY5IjIDfp2nzT-184">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1780" y="2090" />
-              <mxPoint x="785" y="2090" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
