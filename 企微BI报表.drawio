@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T02:39:21.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nxJJbAa2EYo6fXxRzWNO" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T02:42:02.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yARK06TNhDWPZWcgzqyv" version="22.0.8" type="github">
   <diagram name="第 1 页" id="o3zBBv4li8aDqEg_5YwE">
     <mxGraphModel dx="936" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,14 +37,14 @@
         <mxCell id="cQgu6OHe5spTdrW4avdy-28" value="pbi" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;collapsible=0;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="79" y="320" width="2050" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cQgu6OHe5spTdrW4avdy-29" value="ads_ord_fl_abnormal_order_detail_f&lt;br&gt;（飞轮礼包异常（拦截）订单明细）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
+        <mxCell id="cQgu6OHe5spTdrW4avdy-29" value="ads_anc_dtc_usr_friend_group_f&lt;br&gt;（好友和进群）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
           <mxGeometry x="40" y="15" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cQgu6OHe5spTdrW4avdy-30" value="ads_ord_fl_abnormal_order_promoter_detail_f&lt;br&gt;(飞轮礼包异常（拦截）订单人员汇总表)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
-          <mxGeometry x="310" y="15" width="320" height="40" as="geometry" />
+        <mxCell id="cQgu6OHe5spTdrW4avdy-30" value="ads_anc_dtc_usr_payment_behavior_f&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(下单和复购)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
+          <mxGeometry x="281" y="15" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cQgu6OHe5spTdrW4avdy-31" value="ads_fl_abnormal_order_promoter_push_df&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(飞轮礼包异常（拦截）订单人员汇总推送表)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
-          <mxGeometry x="640" y="15" width="320" height="40" as="geometry" />
+        <mxCell id="cQgu6OHe5spTdrW4avdy-31" value="ads_anc_dtc_usr_detail_f&lt;br&gt;(明细报表&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cQgu6OHe5spTdrW4avdy-28">
+          <mxGeometry x="621" y="15" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cQgu6OHe5spTdrW4avdy-32" value="dataphin" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="60" y="60" width="20" height="260" as="geometry" />
@@ -94,6 +94,9 @@
         <mxCell id="cQgu6OHe5spTdrW4avdy-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQgu6OHe5spTdrW4avdy-44" target="cQgu6OHe5spTdrW4avdy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cQgu6OHe5spTdrW4avdy-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQgu6OHe5spTdrW4avdy-57" target="cQgu6OHe5spTdrW4avdy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cQgu6OHe5spTdrW4avdy-57" value="ads_anc_dtc_usr_payment_behavior_f&lt;br&gt;（下单和复购）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="240" height="30" as="geometry" />
         </mxCell>
@@ -104,6 +107,9 @@
               <mxPoint x="450" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cQgu6OHe5spTdrW4avdy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQgu6OHe5spTdrW4avdy-61" target="cQgu6OHe5spTdrW4avdy-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cQgu6OHe5spTdrW4avdy-61" value="ads_anc_dtc_usr_detail_f&lt;br&gt;（明细报表）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581.5" y="240" width="240" height="30" as="geometry" />
@@ -158,6 +164,9 @@
         </mxCell>
         <mxCell id="cQgu6OHe5spTdrW4avdy-33" value="hologeres" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="60" y="320" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cQgu6OHe5spTdrW4avdy-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cQgu6OHe5spTdrW4avdy-8" target="cQgu6OHe5spTdrW4avdy-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
