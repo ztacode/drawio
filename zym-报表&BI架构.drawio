@@ -37,6 +37,9 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-44" value="核销" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
           <mxGeometry y="150" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-45" value="资金" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+          <mxGeometry y="180" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-3" value="客户体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="170" width="120" height="200" as="geometry" />
         </mxCell>
