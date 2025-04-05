@@ -7,6 +7,15 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-1" value="市场体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-15" value="竞品分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-16" value="区域销售分布" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-17" value="市场份额" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
+          <mxGeometry y="90" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-2" value="财务体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="170" width="120" height="200" as="geometry" />
         </mxCell>
