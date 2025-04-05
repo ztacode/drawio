@@ -46,11 +46,17 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-21" value="加盟商" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-3">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-5" value="商品体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-5" value="品牌&amp;amp;商品体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406" y="170" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-24" value="战略/新品" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-5">
           <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-32" value="规模和表现" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-5">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-33" value="SKU效率" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-5">
+          <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-6" value="供应链体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="671" y="170" width="120" height="200" as="geometry" />
