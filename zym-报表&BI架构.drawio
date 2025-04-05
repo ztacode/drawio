@@ -16,6 +16,9 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-17" value="市场份额" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-18" value="渠道表现" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-2" value="财务体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="170" width="120" height="200" as="geometry" />
         </mxCell>
