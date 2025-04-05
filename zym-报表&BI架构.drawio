@@ -127,7 +127,7 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-55" value="人员流动" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-10">
           <mxGeometry y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-56" value="离职原因分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-10">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-56" value="离职原因" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-10">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
