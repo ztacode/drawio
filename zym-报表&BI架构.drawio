@@ -4,26 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-1" value="销售分析" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-1" value="门店销售体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-2" value="财务体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-3" value="会员体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-5" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-5" value="客户体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="542" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-6" value="供应链体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-7" value="生产体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="170" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-8" value="管理驾驶舱：业绩地图、关键业务指标、综合绩效分析、业绩预算执行监控、应收账龄和周转、供应链运营监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="90" width="790" height="40" as="geometry" />
+          <mxGeometry x="140" y="90" width="1050" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-9" value="质量体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="170" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-10" value="人力体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="170" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
