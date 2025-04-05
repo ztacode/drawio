@@ -98,7 +98,7 @@
           <mxGeometry y="180" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-8" value="管理驾驶舱：业绩地图、关键业务指标、综合绩效分析、业绩预算执行监控、应收账龄和周转、供应链运营监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="90" width="1050" height="40" as="geometry" />
+          <mxGeometry x="140" y="70" width="1050" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-9" value="质量体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="937" y="170" width="120" height="200" as="geometry" />
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-56" value="离职原因" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-10">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.0000000000002" y="120" as="sourcePoint" />
+            <mxPoint x="598.6600000000001" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
