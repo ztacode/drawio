@@ -28,6 +28,9 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-19" value="会员" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-3">
           <mxGeometry y="30" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-20" value="消费者" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-3">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-5" value="商品体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406" y="170" width="120" height="200" as="geometry" />
         </mxCell>
