@@ -85,7 +85,7 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-41" value="人均效能" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
           <mxGeometry y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-42" value="人员" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-42" value="人员数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-46" value="门店运营" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
