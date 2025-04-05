@@ -139,6 +139,18 @@
             <mxPoint x="598.6600000000001" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-70" value="&lt;b style=&quot;&quot;&gt;报表&amp;amp;BI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#8FBFFF;fontColor=#FFFFFF;fillColor=#8FBFFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="1050" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
