@@ -19,20 +19,23 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-18" value="渠道表现" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
           <mxGeometry y="120" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-22" value="促销" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-1">
-          <mxGeometry y="150" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-2" value="财务体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="170" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-27" value="利润" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-27" value="成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
           <mxGeometry y="30" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-30" value="费用" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-30" value="风险" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
           <mxGeometry y="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TGuO3DXBG8rAcAUJRnT1-31" value="资金" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-31" value="预算" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-43" value="执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-44" value="核销" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-2">
+          <mxGeometry y="150" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-3" value="客户体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="170" width="120" height="200" as="geometry" />
@@ -61,8 +64,26 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-6" value="供应链体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="671" y="170" width="120" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-37" value="库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-6">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-38" value="采购" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-6">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-39" value="供应商" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-6">
+          <mxGeometry y="90" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-7" value="运营体系" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="804" y="170" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-34" value="促销" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
+          <mxGeometry y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-41" value="人均效能" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
+          <mxGeometry y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-42" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
+          <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-8" value="管理驾驶舱：业绩地图、关键业务指标、综合绩效分析、业绩预算执行监控、应收账龄和周转、供应链运营监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="1050" height="40" as="geometry" />
