@@ -88,6 +88,9 @@
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-42" value="门店效能" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
           <mxGeometry y="90" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TGuO3DXBG8rAcAUJRnT1-46" value="订单相应" style="whiteSpace=wrap;html=1;" vertex="1" parent="TGuO3DXBG8rAcAUJRnT1-7">
+          <mxGeometry y="120" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="TGuO3DXBG8rAcAUJRnT1-8" value="管理驾驶舱：业绩地图、关键业务指标、综合绩效分析、业绩预算执行监控、应收账龄和周转、供应链运营监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="1050" height="40" as="geometry" />
         </mxCell>
