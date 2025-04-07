@@ -11,22 +11,22 @@
           <mxGeometry x="94" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-4" value="盈利能力" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="212" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-5" value="市场表现" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="331" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-6" value="供应链" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="449" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-7" value="效率" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="570" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="567" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-8" value="产品" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="680" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="686" y="160" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-9" value="财务风险" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="106" height="200" as="geometry" />
+          <mxGeometry x="804" y="160" width="106" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
