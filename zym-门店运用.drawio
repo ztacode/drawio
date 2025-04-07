@@ -11,7 +11,7 @@
           <mxGeometry x="94" y="270" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-21" value="销售预测" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ7cx-dCD4smT8NFuNB5-3">
-          <mxGeometry x="16" y="40" width="67" height="150" as="geometry" />
+          <mxGeometry x="6" y="40" width="67" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-4" value="客户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="270" width="113" height="200" as="geometry" />
