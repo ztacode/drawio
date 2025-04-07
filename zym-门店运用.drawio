@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-19" value="&lt;b&gt;管理驾驶舱&lt;/b&gt;：业绩地图、关键业务指标、综合绩效分析、业绩预算执行监控、应收账龄和周转、供应链运营监控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="94" y="160" width="1050" height="40" as="geometry" />
+          <mxGeometry x="94" y="160" width="936" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
