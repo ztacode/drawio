@@ -11,25 +11,31 @@
           <mxGeometry x="94" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-4" value="客户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="209" y="220" width="113" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-5" value="市场表现" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="330" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-6" value="供应链" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="449" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="448" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-7" value="效率" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="567" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="566" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-8" value="产品" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="686" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="684" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-9" value="财务风险" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="804" y="220" width="106" height="200" as="geometry" />
+          <mxGeometry x="802" y="220" width="106" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HJ7cx-dCD4smT8NFuNB5-14" value="质量" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="920" y="220" width="106" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HJ7cx-dCD4smT8NFuNB5-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;width=7;endSize=7;endWidth=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561.5" y="150" as="sourcePoint" />
+            <mxPoint x="561.5" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
